@@ -34,3 +34,6 @@ terraform.rc
 # Terraform provider binaries
 **/.terraform/**/*.exe
 **/.terraform/**
+# Terraform state files
+*.tfstate
+*.tfstate.*
