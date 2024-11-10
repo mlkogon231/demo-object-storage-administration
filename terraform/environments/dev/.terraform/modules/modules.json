@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"root","Source":"../..","Dir":"../.."},{"Key":"root.aks_minio","Source":"./modules/aks-minio","Dir":"../../modules/aks-minio"},{"Key":"root.azure_infrastructure","Source":"./modules/azure-infra","Dir":"../../modules/azure-infra"}]}
